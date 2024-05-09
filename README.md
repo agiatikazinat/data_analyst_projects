@@ -14,4 +14,7 @@ Both projects including following steps:
 
 Both of these projects are completed with the guidelines of Data Analysis with Python course by IBM
 
+Project 3: analyze the employee data using spark
+
+This project is completed with the guideline of Introduciton to Big Data with Spark and Hadoop course by IBM
 
